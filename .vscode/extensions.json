@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "oderwat.indent-rainbow",
+        "monokai.theme-monokai-pro-vscode",
+        "vscode-icons-team.vscode-icons",
+        "coenraads.bracket-pair-colorizer",
+        "hookyqr.beautify",
+        "almenon.arepl",
+        "zhuangtongfa.material-theme",
+        "joeberria.statusbarerror"
+    ]
+}
